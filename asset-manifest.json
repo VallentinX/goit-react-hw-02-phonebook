@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VallentinX/goit-react-hw-02-phonebook/static/css/main.dfd77ea4.css",
+    "main.js": "/VallentinX/goit-react-hw-02-phonebook/static/js/main.e09aaa37.js",
+    "index.html": "/VallentinX/goit-react-hw-02-phonebook/index.html",
+    "main.dfd77ea4.css.map": "/VallentinX/goit-react-hw-02-phonebook/static/css/main.dfd77ea4.css.map",
+    "main.e09aaa37.js.map": "/VallentinX/goit-react-hw-02-phonebook/static/js/main.e09aaa37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfd77ea4.css",
+    "static/js/main.e09aaa37.js"
+  ]
+}
